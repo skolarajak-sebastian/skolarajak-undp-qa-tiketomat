@@ -1,0 +1,36 @@
+h1, p {
+  font-family: Helvetica;
+  color:white;
+  text-align: center;
+}
+
+input{
+   width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+   border-radius: 12px;
+   
+}
+
+input:focus {
+  background-color: rgb(230, 205, 173);
+  color:black;
+}
+
+.main{
+
+  background-color:rgb(66, 134, 244);
+ margin: 20px;
+  padding-bottom: 30px;
+}
+
+button {
+  background-color: rgb(226, 80, 36);
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
